@@ -1,4 +1,5 @@
 let accordian = document.getElementsByClassName("FAQ__title");
+<script type="text/javascript" src="https://example.com/js/main.js"></script>
 
 for (let i = 0; i < accordian.length; i++) {
   accordian[i].addEventListener("click", function () {
